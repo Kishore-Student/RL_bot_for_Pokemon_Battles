@@ -29,7 +29,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/Kishore-Student/RL_bot_for_Pokemon_Battles.git
-cd Semester5Project
+cd RL_bot_for_Pokemon_Battles
 pip install -r requirements.txt
 cd BackEnd
 ```
