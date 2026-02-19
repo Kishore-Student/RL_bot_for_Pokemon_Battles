@@ -28,7 +28,7 @@ This project leverages **PokeEnv** and **Stable-Baselines3 (SB3)** for training,
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/Kishore-Student/Semester5Project.git
+git clone https://github.com/Kishore-Student/RL_bot_for_Pokemon_Battles.git
 cd Semester5Project
 pip install -r requirements.txt
 cd BackEnd
